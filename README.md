@@ -4,7 +4,7 @@ Repositorio centralizado de documentación para el proyecto **TornaMap**.
 
 ## ¿Qué es TornaMap?
 
-TornaMap es un proyecto compuesto por un backend y un frontend. Este repositorio centraliza toda la documentación técnica del proyecto para facilitar el desarrollo, mantenimiento y colaboración entre los integrantes del equipo.
+TornaMap es... Este repositorio centraliza toda la documentación técnica del proyecto para facilitar el desarrollo, mantenimiento y colaboración entre los integrantes del equipo.
 
 ## Wiki
 
