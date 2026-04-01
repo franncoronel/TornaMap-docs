@@ -6,8 +6,7 @@ Esta sección centraliza la documentación técnica del backend de TornaMap.
 
 - [Arquitectura](#arquitectura)
 - [Instalación y configuración](#instalación-y-configuración)
-- [Endpoints de la API](#endpoints-de-la-api)
-- [Modelos de datos](#modelos-de-datos)
+- [Diagrama de entidad-relación](#diagrama-de-entidad-relación)
 - [Variables de entorno](#variables-de-entorno)
 
 ---
@@ -20,13 +19,11 @@ Esta sección centraliza la documentación técnica del backend de TornaMap.
 
 > _Describir aquí los pasos necesarios para instalar y ejecutar el servidor en un entorno local._
 
-## Endpoints de la API
+## Diagrama de entidad-relación
 
-> _Listar y describir aquí los endpoints disponibles en la API REST, incluyendo métodos HTTP, parámetros y respuestas esperadas._
+El diagrama DER del proyecto se mantiene actualizado en la Wiki: [Ver diagrama DER](../../wiki/Diagrama-DER).
 
-## Modelos de datos
-
-> _Describir aquí los modelos o entidades principales de la base de datos._
+> Para actualizar el diagrama, reemplazar la imagen en la página correspondiente de la Wiki sin necesidad de modificar el código fuente.
 
 ## Variables de entorno
 
